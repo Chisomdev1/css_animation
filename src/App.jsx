@@ -61,7 +61,7 @@ export default function App() {
                   }`}
                 onClick={() => toggleMenu("Dashboard")}
               >
-                Data Range
+                Range
               </div>
             </div>
             {activeMenu === "Dashboard" && (
@@ -147,7 +147,7 @@ export default function App() {
                   }`}
                 onClick={() => toggleMenu("Origin")}
               >
-                Origin Level
+                Origin
               </div>
             </div>
             {activeMenu === "Origin" && (
