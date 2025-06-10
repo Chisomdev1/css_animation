@@ -86,9 +86,9 @@ export default function App() {
                       <MessageSquare />
                     </div>
                   </div>
-                  <div className="justify-center w-[90%] mb-2 flex items-center m-auto bg-gray-300 rounded-[15px] p-1">
+                  <div className="justify-center w-[90%] mb-2 flex text-[14px] items-center m-auto bg-gray-300 rounded-[15px] p-1">
                     Choose Resource
-                    <Search className="ml-2" />
+                    <Search className="md:ml-2" />
                   </div>
                 </div>
               </div>
@@ -131,9 +131,9 @@ export default function App() {
                     <MessageSquare />
                   </div>
                 </div>
-                <div className="justify-center w-[90%] mb-2 flex items-center m-auto bg-gray-300 rounded-[15px] p-1">
+                <div className="justify-center w-[90%] mb-2 flex text-[14px] items-center m-auto bg-gray-300 rounded-[15px] p-1">
                   Choose Resource
-                  <Search className="ml-2" />
+                  <Search className="md:ml-2" />
                 </div>
               </div>
             </div>
@@ -172,9 +172,9 @@ export default function App() {
                    <MessageSquare />
                  </div>
                </div>
-               <div className="justify-center w-[90%] mb-2 flex items-center m-auto bg-gray-300 rounded-[15px] p-1">
+               <div className="justify-center w-[90%] mb-2 flex text-[14px] items-center  m-auto bg-gray-300 rounded-[15px] p-1">
                  Choose Resource
-                 <Search className="ml-2" />
+                 <Search className="md:ml-2" />
                </div>
              </div>
            </div>
